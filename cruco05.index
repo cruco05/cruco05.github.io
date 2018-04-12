@@ -1,0 +1,96 @@
+ <!-- MANEJO DE LAYOUTS CON PORCENTAJES (%) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		.principal{
+			width: 95%;
+			background-color: #8B0000;
+			margin: 0 auto;
+			border: 0;
+			padding: 2%;
+			height: 600px;
+		}
+		.encabezado{
+			width: 96%;
+			background-color: black;
+			padding: 2%;
+			margin: 0 auto;
+			text-align: center;
+			font-size: 50px;
+                                        color:white;
+		}
+		.menu{
+			width: 15%;
+			background-color: white;
+			margin-top: 2%;
+			padding: 1%;
+			float: left;
+			margin-bottom: 2%;
+                                        height:400px;
+		}
+		.contenido{
+			background-color:#8B0000;
+			float: left;
+			margin-left: 2%;
+			margin-top: 2%;
+			padding: 1%;
+			width: 74%;
+		}
+		.footer{
+			clear: both;
+			background-color: black;
+			margin-top: 2%;
+			padding: 1%;
+			text-align: center;
+                                        color:white;
+		}
+	</style>
+</head>
+<body>
+	<div class="principal">
+		<div class="encabezado">
+			Fashion life
+		</div>
+		<div class="menu">
+			<ul>
+				<a href="http://www.lavanguardia.com/de-moda/20171120/433040609804/victorias-secret-desfile-mejores-imagenes.html">Pasarelas</a>
+<br>
+                                                     <a href="http://www.ribescasals.com/blog/colores-tendencias-verano-2017/">Colores</a>
+<br>
+                                                     <a href="http://www.modatelas.com.mx/es/productos/moda/">Texturas</a>
+<br>
+                                                     <a href= "http://www.hm.com/mx/products/ladies/divided/shirts_blouses">blusas</a>
+<br>
+                                                     <a href="http://www.hm.com/mx/products/ladies/dresses">Vestidos</a>
+<br>
+                                                     <a href="http://www.hm.com/mx/products/ladies/beauty">Maquillaje</a>
+<br>
+			             <a href="https://www.lolitamoda.com/blog/22-aprende-a-vestirte-para-cada-ocasion">Ropa para cada ocasion</a>
+<br>
+				<a href="http://www.hm.com/mx/products/ladies/lingerie">Lenceria</a>
+<br>
+				<a href="http://www.hm.com/mx/products/ladies/nightwear_loungewear">Pijama</a>
+<br>
+				<a href="http://www.hm.com/mx/products/ladies/shorts">Shorts</a>
+<br>
+				<a href="https://mx.hola.com/tags/peinados/">Peinados</a>
+<br>
+				<a href="http://www.hm.com/mx/products/ladies/accessories">Accesorios</a>
+<br>
+				<a href="http://www.hm.com/mx/products/ladies/shoes">Calzado</a>
+				
+			</ul>
+		</div>
+		<div class="contenido">
+			
+		</div>
+		<div class="footer">
+			2018 &copy; 
+		</div>
+	</div>
+</body>
+</html>
+		
