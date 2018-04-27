@@ -7,7 +7,7 @@
 <hr>
 <a href="https://cruco05.github.io/practica4.html">Practica 4 de bootstrap. imágenes</a>
 <hr>
-<a href="https://cruco05.github.io/practica5.html">Practica 5 de bootstrap.menu responsivo</a>
+<a href="https://cruco05.github.io/practicas5.html">Practica 5 de bootstrap.menu responsivo</a>
 <hr>
 <a href="https://cruco05.github.io/iconos.html">Practica 6 de bootstrap.iconos</a>
 <hr>
