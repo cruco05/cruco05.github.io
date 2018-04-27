@@ -1,7 +1,7 @@
 # cruco05.github.io
 <a href="https://cruco05.github.io/gema.html">Practica 1 de bootstrap.Grids</a>
 <hr>
-<a href="https://cruco05.github.io/.html">Practica 2 de4 bootstrap. tablas</a>
+<a href="https://cruco05.github.io/tablas.html">Practica 2 de4 bootstrap. tablas</a>
 <hr>
 <a href="https://cruco05.github.io/formularioyboton.html">Practica 3 de bootstrap. formulario y botones</a>
 <hr>
