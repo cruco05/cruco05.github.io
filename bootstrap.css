@@ -1089,8 +1089,8 @@ body {
   font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 1.42857143;
-  color: #ebebeb;
-  background-color: #2b3e50;
+  color: #000;
+  background-color: white;
 }
 input,
 button,
@@ -1218,7 +1218,7 @@ h6 .small,
 .h6 .small {
   font-weight: normal;
   line-height: 1;
-  color: #ebebeb;
+  color: #000;
 }
 h1,
 .h1,
@@ -1611,6 +1611,7 @@ pre code {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
+  background: #000;
 }
 .row {
   margin-left: -15px;
@@ -4963,7 +4964,7 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #4e5d6c;
+  background-color: white;
 }
 .jumbotron h1,
 .jumbotron .h1 {
